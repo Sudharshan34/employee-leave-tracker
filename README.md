@@ -57,6 +57,7 @@ python manage.py runserver
 
 ## Project Structure
 
+'''
 employee-leave-tracker/
 ├── accounts/ # custom user model, registration & login
 ├── leaves/ # leave request model, apply/view/approve logic, leave balance tracking
@@ -64,6 +65,7 @@ employee-leave-tracker/
 ├── templates/ # HTML templates for all pages
 ├── manage.py
 └── requirements.txt
+'''
 
 
 ## User Roles
